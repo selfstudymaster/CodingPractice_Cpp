@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7645BA2E-6C9C-4BD6-A84E-C0D9E6A9F3E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodingPractice__Cpp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingPractice_Cpp/Program.cs">
+    <Files>
+      <File FileName="CodingPractice_Cpp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingPractice_Cpp" expanded="True">
+            <Node name="CodingPractice_Cpp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
